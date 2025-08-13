@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "title": "Learning react",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "title": "typescript",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "Learn React",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "title": "Revising Javascript",
+      "completed": false,
+      "id": 4
+    }
+  ]
+}
